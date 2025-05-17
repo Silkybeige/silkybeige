@@ -13,7 +13,7 @@ I'm a Data Scientist with a product mindset — passionate about turning data in
 - 🌱 Learning more about **Machine Learning**, **MLOps**, and **Generative AI**
 - 👯 Open to collaborating on AI projects, analytics tools, or anything data-driven
 - 💬 Ask me about data strategy, AI models, or how to make dashboards people actually use
-- 📫 Reach me at: [your email or LinkedIn]
+- 📫 Reach me at: [LinkedIn](#) | [kristinaamaiefulie.com](http://kristinaamaiefulie.com)  
 - ⚡ Fun fact: I see stories in spreadsheets and possibilities in Python
 
 ---
