@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kristina Amaiefulie
 
-<!--
-**Silkybeige/silkybeige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist based in **Toronto** with a product mindset — passionate about turning data into decisions and AI into real-world impact. I help teams build smarter products by connecting the dots between data, users, and business goals.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧠 Working at the intersection of **Data Science** and **Product**
+- 🤖 Exploring the power of **AI** to solve meaningful problems
+- 📊 Turning complex data into clear, actionable insights
+- 📍 Based in **Toronto**, open to global opportunities and collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently
+- 🔭 Working on real-world data challenges using Python, SQL, and ML tools
+- 🌱 Learning more about **Machine Learning**, **MLOps**, and **Generative AI**
+- 👯 Open to collaborating on AI projects, analytics tools, or anything data-driven
+- 💬 Ask me about data strategy, AI models, or how to make dashboards people actually use
+- 📫 Reach me at: [your email or LinkedIn]
+- ⚡ Fun fact: I see stories in spreadsheets and possibilities in Python
+
+---
+
+✨ _Let’s build data-powered products the world will remember._  
