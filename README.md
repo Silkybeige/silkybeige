@@ -1,36 +1,20 @@
 # 👋 Hi, I'm Kristina Amaiefulie
 
-🎯 **Data Scientist | Product-Focused | AI Enthusiast**  
-📍 Based in **Toronto** | 🌐 [kristinaamaiefulie.com](http://kristinaamaiefulie.com)
+I'm a Data Scientist with a product mindset — passionate about turning data into decisions and AI into real-world impact. I help teams build smarter products by connecting the dots between data, users, and business goals.
 
-I'm a Data Scientist with a product mindset — passionate about turning raw data into real-world impact. I bridge the gap between users, data, and decisions, helping teams build smarter, insight-driven products. With experience across analytics, machine learning, and AI tools, I thrive at the intersection of data and product strategy.
+## 🚀 About Me
+- 🧠 Working at the intersection of **Data Science** and **Product**
+- 🤖 Exploring the power of **AI** to solve meaningful problems
+- 📊 Turning complex data into clear, actionable insights
+- 🌍 Open to global opportunities and collaborations
 
----
-
-## 🚀 What I Do
-
-- 📊 **Data Analytics** — uncovering insights to drive better business outcomes  
-- 🤖 **Applied AI/ML** — building intelligent models that solve real problems  
-- 🧠 **Product Thinking** — aligning data work with user and business goals  
-- 📈 **Storytelling with Data** — making complex data simple and actionable  
-
----
-
-## 🔧 Tech Stack
-
-**Languages & Tools:**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Tableau` · `Power BI` · `Jupyter` · `Git`
-
-**Currently Exploring:**  
-`MLOps` · `Generative AI` · `LangChain` · `Streamlit` · `Cloud Platforms`
-
----
-
-## 🤝 Let’s Connect
-
-- 🌐 Portfolio: [kristinaamaiefulie.com](http://kristinaamaiefulie.com)  
-- 💼 Open to: Collaboration · Remote Work · Speaking · Mentorship  
-- 📫 Reach me via: [LinkedIn](#) | Email: kristina@amaiefulie.com *(replace with real link)*  
+## 🛠️ Currently
+- 🔭 Working on real-world data challenges using Python, SQL, and ML tools
+- 🌱 Learning more about **Machine Learning**, **MLOps**, and **Generative AI**
+- 👯 Open to collaborating on AI projects, analytics tools, or anything data-driven
+- 💬 Ask me about data strategy, AI models, or how to make dashboards people actually use
+- 📫 Reach me at: [your email or LinkedIn]
+- ⚡ Fun fact: I see stories in spreadsheets and possibilities in Python
 
 ---
 
